@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-L01",
+  "repository": "icb-l01-executive-briefing-credentials-strategic",
+  "repository_url": "https://github.com/ICoBC/icb-l01-executive-briefing-credentials-strategic",
+  "title": "Executive Briefing: Credentials as Strategic Infrastructure",
+  "subtitle": "Two hours for leaders who must decide whether, when and how.",
+  "version": "1.0.0",
+  "series": "Leadership",
+  "skill": "Credential strategy and value",
+  "level": "5",
+  "level_name": "Shape",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-STRV-L5-K",
+  "badge_name": "Executive Briefing: Credentials as Strategic Infrastructure (Knowledge, L5)",
+  "hours": "2",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-l01/",
+  "parts": [
+    "About this course",
+    "Why now",
+    "Strategic options",
+    "Risks",
+    "Decisions",
+    "First steps",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
